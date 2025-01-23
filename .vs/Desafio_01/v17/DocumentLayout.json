@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\matheus.smatos11\\source\\repos\\Desafio_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8A0B2C9-8139-4FDA-8148-FBE1CED45B48}|Desafio_03\\Desafio_03.csproj|c:\\users\\matheus.smatos11\\source\\repos\\desafio_01\\desafio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8A0B2C9-8139-4FDA-8148-FBE1CED45B48}|Desafio_03\\Desafio_03.csproj|solutionrelative:desafio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4585B91-B691-478E-BD44-D11A7B07828A}|Desafio 04\\Desafio 04.csproj|c:\\users\\matheus.smatos11\\source\\repos\\desafio_01\\desafio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4585B91-B691-478E-BD44-D11A7B07828A}|Desafio 04\\Desafio 04.csproj|solutionrelative:desafio 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73D048A4-1463-46C7-8237-B4AEF377740C}|Desafio_04\\Desafio_04.csproj|c:\\users\\matheus.smatos11\\source\\repos\\desafio_01\\desafio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73D048A4-1463-46C7-8237-B4AEF377740C}|Desafio_04\\Desafio_04.csproj|solutionrelative:desafio_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A8A0B2C9-8139-4FDA-8148-FBE1CED45B48}|Desafio_03\\Desafio_03.csproj|c:\\users\\matheus.smatos11\\source\\repos\\desafio_01\\desafio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A0B2C9-8139-4FDA-8148-FBE1CED45B48}|Desafio_03\\Desafio_03.csproj|solutionrelative:desafio_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F9AF4A5-AABD-48C2-8692-8A09F4748224}|Desafio_01\\Desafio_01.csproj|c:\\users\\matheus.smatos11\\source\\repos\\desafio_01\\desafio_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Desafio_01\\Desafio_04\\Program.cs",
-              "RelativeDocumentMoniker": "Desafio_04\\Program.cs",
-              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Desafio_01\\Desafio_04\\Program.cs",
-              "RelativeToolTip": "Desafio_04\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Desafio_01\\Desafio 04\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio 04\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.smatos11\\source\\repos\\Desafio_01\\Desafio 04\\Program.cs",
+              "RelativeToolTip": "Desafio 04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T23:22:30.916Z",
+              "WhenOpened": "2025-01-23T00:37:20.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus.smatos11\\source\\repos\\Desafio_01\\Desafio_03\\Program.cs",
               "RelativeDocumentMoniker": "Desafio_03\\Program.cs",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Desafio_02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:40:07.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T22:40:07.258Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Desafio_01\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T22:29:11.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T22:29:11.878Z"
             }
           ]
         }
